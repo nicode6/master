@@ -1,1 +1,7 @@
+test pull from remote dev
+dev work
+dev modefied
+Fixed bug
+testBranch
 test
+Added a feature branch
